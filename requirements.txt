@@ -106,4 +106,4 @@ wikipedia==1.4.0
 yarl==1.9.2
 zipp==3.15.0
 zstandard==0.21.0
-reuters
+backports.zoneinfo;python_version<"3.9"
